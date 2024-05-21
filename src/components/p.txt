@@ -1,0 +1,21 @@
+<Card style={{ width: 'auto' }}>
+      
+      
+        <Card.Title>User Info</Card.Title>
+        <Card.Body>
+        <h4 style={{textAlign:"left"}}>Username: Hello/world69</h4>
+          <h5 style={{textAlign:"left"}}>Name: Hello world</h5>
+          <h5 style={{textAlign:"left"}}>Email:  Erripuka@erripuka.com</h5>
+          <h5 style={{textAlign:"left"}}>Phone No:  nee modda</h5>
+
+        
+        
+      </Card.Body>
+    </Card>
+
+    <Grid xs>
+    <Item>
+    
+        
+    </Item>
+  </Grid>
